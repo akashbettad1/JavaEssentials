@@ -1,4 +1,4 @@
-package com.java.examples.equalsAndHashcode;
+package com.java.examples.equalsandhashcode;
 
 import java.util.HashSet;
 import java.util.Objects;
